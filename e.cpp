@@ -6,7 +6,7 @@
 
    @Author  : Akshat Madhavan
    @Country : INDIA 
-   
+
 */
 
 #include<bits/stdc++.h>
